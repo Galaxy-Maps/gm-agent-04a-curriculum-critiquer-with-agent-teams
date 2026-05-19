@@ -1,0 +1,17 @@
+# Curriculum Critiquer (Agent Teams)
+
+4 adversarial reviewers debate via peer messaging to produce ranked consensus suggestions.
+
+Part of the [Galaxy Maps](https://github.com/Galaxy-Maps) modular skill stack — each role in the Galaxy Map creation pipeline lives in its own repo so it can be iterated on independently.
+
+## Install
+
+Clone into your Claude Code skills directory:
+
+```bash
+git clone https://github.com/Galaxy-Maps/gm-agent-04a-curriculum-critiquer-with-agent-teams.git ~/.claude/skills/gm-agent-04a-curriculum-critiquer-with-agent-teams
+```
+
+## Provenance
+
+Forked and modularized from [`tairea/galaxy-maps-ai-skill-with-agent-teams`](https://github.com/tairea/galaxy-maps-ai-skill-with-agent-teams). See `SKILL.md` for the full skill definition.
